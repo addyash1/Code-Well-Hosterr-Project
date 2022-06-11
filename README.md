@@ -7,4 +7,4 @@ Challenge Link : https://www.codewell.cc/challenges/hosterr-waitlist-page--60b3e
 
 #Table / Mobile View!
 
-[Hosterr_Slider_Thumbnail_9e3c4a4193](https://user-images.githubusercontent.com/93123789/173182638-f142edb3-01a2-4297-93d2-a551ea093ab5.jpg)
+![Hosterr_Slider_Thumbnail_9e3c4a4193](https://user-images.githubusercontent.com/93123789/173182670-761e675b-8325-473f-bed1-8aa6cdf9e2ab.jpg)
